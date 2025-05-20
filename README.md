@@ -18,7 +18,7 @@ The `extract_features` function includes error handling for invalid image files 
 4.  Update `TRAIN_DIR` and `test_image_dir` in the notebook.
 5.  Run the notebook.
 
-##output 
+## output 
 `predictions3.csv` containing image names and predicted labels ("AI" or "Real")
 
 ## Generative Adversarial Network Implementation
