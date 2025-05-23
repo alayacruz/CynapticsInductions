@@ -14,7 +14,6 @@ import pandas as pd
 from keras.utils import to_categorical
 from tensorflow.keras.utils import load_img
 from keras.models import Sequential
-from keras.applications import MobileNetV2, ResNet152, VGG16, EfficientNetB0, InceptionV3
 from keras.layers import Dense, Conv2D, Dropout, Flatten, MaxPooling2D, BatchNormalization, GlobalAveragePooling2D
 from sklearn.preprocessing import LabelEncoder
 from tqdm.notebook import tqdm
